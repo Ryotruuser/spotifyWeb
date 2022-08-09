@@ -38,6 +38,10 @@ nav.navbar-transparente{
     text-align: center;
 }
 
+.carousel-control-next, .carousel-control-prev{
+    width: 5%;
+}
+
 .btn-custom{
     color: white;
     border-radius: 500px;
@@ -90,6 +94,10 @@ h3{
 
 #servicos{
     background: white;
+}
+
+#servicos p{
+    color: black;
 }
 
 #servicos h2,h3{
